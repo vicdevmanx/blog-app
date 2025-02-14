@@ -1,0 +1,29 @@
+* {
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;  
+    display: flex;
+    gap: 1rem;
+    padding: 2vh;
+}
+
+main {
+height: 96vh;
+border-radius: 10px;
+background-color: #fff;
+padding: 20px;
+width: 90%;
+}
+
+.sidebar {
+    height: 96vh;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 20px;
+
+}

@@ -1,0 +1,32 @@
+This file will contain the details of the technology stack used in the Blog app project.
+
+1. Backend:
+    - Node.js
+    - Express.js
+    - EJS
+
+2. Deployment:
+    - Vercel
+
+3. Version Control:
+    - Git
+    - GitHub
+
+4. Others:
+    - Webpack
+    - Babel
+    - ESLint
+
+
+    // fetures
+
+    see all blog post
+     -name, image, title, body ..seemore, tags
+      -favourites
+
+    create a post when logged in
+     -you should be logged in 
+       username, fullname, email, password
+
+    see all other users
+     expand and see thier posts
