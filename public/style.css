@@ -4,26 +4,216 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'PoppinsBlack';
+    src: url(Poppins/Poppins-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(Poppinp/Poppins-Regular.ttf);
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f4f4f4;  
     display: flex;
     gap: 1rem;
-    padding: 2vh;
+}
+
+h1 {
+    font-family:'PoppinsBlack';
 }
 
 main {
-height: 96vh;
-border-radius: 10px;
-background-color: #fff;
-padding: 20px;
-width: 90%;
+height:100vh;
+padding-top: 10px;
+padding-right: 20px;
+width: 100%;
 }
 
 .sidebar {
-    height: 96vh;
+    height: 100vh;
+    background-color: #fff;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    min-width: 13rem;
+    padding-top: 20px;
+}
+
+
+.page {
+    text-decoration: none;
+    color: rgb(136, 136, 136);
+    margin-top: 10px;
+    padding:8px 12px;
+    border-radius: 8px;
+    display: flex;
+    gap: 0.5rem;
+    align-items: start;
+    font-size: 20;
+}
+
+.page:hover {
+    background-color: #f4f4f4;
+}
+
+.head {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.headIcon {
+    width: 30px;
+    fill: blueviolet;
+}
+
+.active {
+    background:linear-gradient(135deg, rgb(113, 183, 230), rgb(155, 89, 182));
+    color: white;
+}
+
+
+.active:hover {
+    background-color: rgba(137, 43, 226, 0.836);
+    color: white;
+}
+
+.miniIcon {
+    width: 22px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+button {
+    background: linear-gradient(135deg, rgb(113, 183, 230), rgb(155, 89, 182));
+    color: white;
+    border: none;
+    padding: 8px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    height:45px;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+
+button svg {
+    fill: white;
+}
+
+.search {
+    width: 25rem;
+    padding: 15px;
+    min-height: 45px;
     border-radius: 10px;
     background-color: #fff;
-    padding: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    outline: none;
+    border: none;
+    animation-name: search;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+    margin-top: -3rem;
+}
 
+.searchForm {
+    display: flex;
+    gap: 0.3rem;
+    align-items: center;
+}
+
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    height:88vh;
+    overflow-y: scroll;
+}
+
+.content::-webkit-scrollbar {
+    width: 10px;
+}
+
+.content::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.075);
+    border-radius: 20px;
+    width: 8px;
+}
+
+.post {
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    padding:20px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    position: relative;
+    animation-name: post;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    margin-top: 10rem;
+}
+
+.postImg {
+    height: 15rem;
+    border-radius: 10px;
+}
+
+.postFooter {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 40rem;
+}
+
+.postTitle {
+    font-size:1.8rem;
+    font-weight: 700;
+}
+
+.postAction {
+    display: flex;
+    gap: 0.5rem;
+    position: absolute;
+    bottom:22px;
+    right: 22px;
+}
+
+.postAction button {
+    height:40px;
+    padding: 0 10px;
+}
+
+
+
+
+/* animation */
+
+@keyframes post {
+    from {
+        margin-top: 10rem;
+    }
+    to {
+        margin-top: 0;
+    }
+}
+
+@keyframes search {
+    from {
+margin-top: -3rem;
+    }
+    to {
+        margin-top: 0rem;
+    }
 }

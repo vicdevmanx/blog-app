@@ -1,0 +1,62 @@
+/* profile.css */
+
+.profile-container {
+    max-width: 800px;
+    margin: 15px 0;
+    background: #fff;
+    padding: 15px 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    gap: 0.1rem;
+    padding-bottom: 20px;
+}
+
+.profile-header img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.profile-header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.columnpost {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 15px;
+    width: 20rem;
+    height: 30rem;
+}
+
+
+.profilePosts {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding-bottom: 1rem;
+
+}
+
+.mainProfile{
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100%
+}
+
+.postImg {
+    width: 100%;
+}
