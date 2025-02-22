@@ -1,1 +1,200 @@
-{"users":[{"id":1,"name":"Divine Wilson","email":"diviine@gmail.com","password":"nice","gender":"male"},{"id":1,"name":"Divine Wilson","email":"diviine@gmail.com","password":"nice","gender":"male"},{"id":1,"name":"Divine Wilson","email":"diviine@gmail.com","password":"nice","gender":"male"},{"id":1,"name":"Favour Ewah","email":"favour@gmail.com","password":"nice","gender":"female"},{"id":1,"name":"Divine Wilson","email":"diviine@gmail.com","password":"nice","gender":"male"}],"posts":[{"id":1,"title":"The book","content":"ths is the thing about the book","date":"no date","user":"mary","gender":"female","userid":9000,"time":"notime"},{"id":2,"title":"The book","content":"ths is the thing about the book","date":"no date","user":"adam","gender":"male","userid":9001,"time":"notime"}]}
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "vicdevmanx",
+      "email": "vicdevmanx@gmail.com",
+      "password": "Vic_devman@123",
+      "gender": "male"
+    }
+  ],
+  "posts": [
+    {
+      "id": 17,
+      "title": "uyg8yhu",
+      "description": "87y7yuu8...",
+      "content": "87y7yuu8",
+      "date": "22th Feb 2025",
+      "time": "7:04 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 16,
+      "title": "ah6th",
+      "description": "sthtrh...",
+      "content": "sthtrh",
+      "date": "22th Feb 2025",
+      "time": "2:14 AM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 15,
+      "title": "jlnlmk",
+      "description": "hbkj...",
+      "content": "hbkj",
+      "date": "22th Feb 2025",
+      "time": "2:09 AM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 14,
+      "title": "kmkml",
+      "description": "uouji...",
+      "content": "uouji",
+      "date": "22th Feb 2025",
+      "time": "2:09 AM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 13,
+      "title": "m ,l",
+      "description": "o7hopij...",
+      "content": "o7hopij",
+      "date": "22th Feb 2025",
+      "time": "2:08 AM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 12,
+      "title": "ergefecdevedv",
+      "description": "dvdevrdv fsvDfvEDV...",
+      "content": "dvdevrdv fsvDfvEDV",
+      "date": "21th Feb 2025",
+      "time": "12:48 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 11,
+      "title": "ihhi",
+      "description": "oijhuo...",
+      "content": "oijhuo",
+      "date": "20th Feb 2025",
+      "time": "4:49 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 10,
+      "title": "lm",
+      "description": "xzM...",
+      "content": "xzM",
+      "date": "20th Feb 2025",
+      "time": "4:32 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 9,
+      "title": "ijio",
+      "description": "ouho...",
+      "content": "ouho",
+      "date": "20th Feb 2025",
+      "time": "4:31 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 8,
+      "title": "xwax",
+      "description": "xwqxw...",
+      "content": "xwqxw",
+      "date": "20th Feb 2025",
+      "time": "4:29 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 7,
+      "title": "wxqwx",
+      "description": "wxwwx...",
+      "content": "wxwwx",
+      "date": "20th Feb 2025",
+      "time": "4:29 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 6,
+      "title": "xcwxs",
+      "description": "xxwsx...",
+      "content": "xxwsx",
+      "date": "20th Feb 2025",
+      "time": "4:28 PM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 5,
+      "title": "7hg7h7uui",
+      "description": "7yh978yhu8...",
+      "content": "7yh978yhu8",
+      "date": "20th Feb 2025",
+      "time": "11:22 AM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 4,
+      "title": "huhuhuo",
+      "description": "7h7h8huh8oh...",
+      "content": "7h7h8huh8oh",
+      "date": "20th Feb 2025",
+      "time": "11:00 AM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 3,
+      "title": "How to make money in 1hour",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum...",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat eius ad ipsum tempora excepturi eos numquam in sed aliquam Repudiandae possimus sed inventore voluptatum reiciendis dolore quam nostrum pariatur est.",
+      "date": "20th Feb 2025",
+      "time": "9:54 AM",
+      "user": "vicdevmanx",
+      "gender": "male",
+      "userid": 1
+    },
+    {
+      "id": 1,
+      "title": "The book",
+      "description": "my description",
+      "content": "ths is the thing about the book",
+      "date": "no date",
+      "user": "mary",
+      "gender": "female",
+      "userid": 9000,
+      "time": "notime"
+    },
+    {
+      "id": 2,
+      "title": "The book",
+      "description": "my description",
+      "content": "ths is the thing about the book",
+      "date": "no date",
+      "user": "adam",
+      "gender": "male",
+      "userid": 9001,
+      "time": "notime"
+    }
+  ]
+}

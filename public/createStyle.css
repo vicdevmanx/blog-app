@@ -5,19 +5,25 @@
 }
 .body {
     margin: 0;
-    height: 100vh;
+    height: 90vh;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     background: #f4f4f4;
     font-family: Arial, sans-serif;
-    padding: 0.8rem 20px 0.8rem 0px;
+    padding-bottom:0.8rem ;
+    padding-top:0.8rem ;
+    padding-right:1rem ;
+
+    width: 100%;
+    flex-direction: column;
 }
 .form-container {
     background: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 500px;
+    width: 100%;
+    max-width : 500px;
 }
 .form-container h2 {
     margin-bottom: 20px;
@@ -31,12 +37,14 @@
     border: none;
     border-radius: 5px;
     background-color: #f4f4f4;
+    font-size: 1rem;
 }
 
 .form-container input, .form-container textarea {
-    height:2.5rem;
-    font-size: 16px;
-    font-weight: 600;
+    /* height:3rem; */
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0.8rem;
 }
 
 .form-container textarea {
