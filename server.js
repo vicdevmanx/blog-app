@@ -183,7 +183,7 @@ res.render("posts.ejs", {post: post})
 app.post('/deletepost/:id',(req, res) => {
     let postId = req.params.id;
     posts = posts.filter((post) => String(post.id) !== String(postId))
-    // writeData();
+    writeData();
     res.redirect("/");
 })
 
